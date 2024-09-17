@@ -1,7 +1,8 @@
 {
   "domain": "casovni_bloki",
   "name": "Časovni bloki",
-  "version": "1.0",
+  "version": "1.0.0",
+  "documentation": "https://github.com/tomek550/ha-casovni-bloki",
   "config_flow": true,
   "requirements": [],
   "dependencies": [],
