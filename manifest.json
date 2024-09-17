@@ -1,0 +1,9 @@
+{
+  "domain": "casovni_bloki",
+  "name": "Časovni bloki",
+  "version": "1.0",
+  "config_flow": true,
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@tomek550"]
+}

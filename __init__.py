@@ -1,0 +1,1 @@
+"""Časovni bloki Integration."""
