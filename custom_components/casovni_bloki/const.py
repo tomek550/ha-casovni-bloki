@@ -1,0 +1,1 @@
+DOMAIN = "casovni_bloki"
